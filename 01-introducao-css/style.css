@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font-size: 40px;  
+}
+
+p{  
+    color: brown; 
+}
+
+button {
+    color: blueviolet;
+    background-color: black;
+}
+
+body {
+    background-color: cadetblue;
+}
